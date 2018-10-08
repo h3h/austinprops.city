@@ -25,6 +25,7 @@ TBD
 ## See also
 
 * [How do city bonds work and how are they funded?](#) - TBD
+* [League of Women Voters Austin – 2018 Voting Guide](https://lwvaustin.org/voter-guide/)
 
 ## Original city notice
 
