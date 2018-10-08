@@ -1,0 +1,23 @@
+# Site settings
+title: "Site Name Here"
+description: "Site description here."
+baseurl: ''
+url: ''
+# google_analytics: 'UA-XXXXXX-X'
+# twitter_username: 'twitter_username'
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - assets
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+permalink: "/:title/"
+
+plugins: [jekyll-paginate]
+
+paginate: 10
