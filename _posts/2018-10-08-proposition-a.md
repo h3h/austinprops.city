@@ -11,12 +11,24 @@ Specifically, the city wants to be able to:
 * Buy land to support additional affordable housing
 * Take out loans to support those activities
 
-In order to fund these activities, the city is proposing an issuance of $250 million in new bonds, noting that city
+In order to fund these activities, the city is proposing an issuance of **$250 million** in new bonds, noting that city
 property taxes will be used to fund the interest on those bonds.
 
 ## What does “affordable housing” include in Austin? What are we actually funding?
 
-…
+TBD
+
+## How much have we spent in the past in this category and on what types of projects?
+
+TBD
+
+## How many Austin city residents rely exclusively on this funding?
+
+TBD
+
+## How many Austin city employees rely exclusively on this funding? Outside contractors?
+
+TBD
 
 ## Evaluation
 
