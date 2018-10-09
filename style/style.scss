@@ -1,6 +1,11 @@
 ---
 ---
 
+// Austin City colors
+$red: #be2c2e;
+$blue: #2355ae;
+$gold: #fbe480;
+
 @import 'normalize.css';
 * {
   box-sizing: border-box;
@@ -14,12 +19,17 @@ body {
   color: #32383B;
 }
 
+::selection {
+  background-color: $gold;
+  color: $blue;
+}
+
 a:link {
-  color: #62a2c9;
+  color: $blue;
   text-decoration: none;
 }
 a:visited {
-  color: #477693;
+  color: darken($blue, 10%);
 }
 a:hover,
 a:active {
@@ -54,7 +64,8 @@ a.header-link:visited {
 }
 a.header-link:hover,
 a.header-link:active {
-  text-shadow: 1px 1px 8px #93c9bc;
+  color: $blue;
+  text-shadow: 2px 2px 3px #666;
   transition: 0.3s;
   text-decoration: none;
 }
@@ -100,7 +111,7 @@ a.header-link:active {
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #5F7585;
+  color: $red;
 
   @media screen and (min-width:64em) {
     margin-top: 2rem;
@@ -182,7 +193,7 @@ a.header-link:active {
   padding: 0 1rem;
   margin-left: 0;
   color: #5F6B70;
-  border-left: 0.3rem solid #dce6f0;
+  border-left: 0.3rem solid lighten($blue, 40%);
 }
 .main-content blockquote >:first-child {
   margin-top: 0;
