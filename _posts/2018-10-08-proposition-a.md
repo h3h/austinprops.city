@@ -54,4 +54,4 @@ TBD
 > taxes on all taxable property in the City in an amount sufficient, within the limits prescribed by law, to pay the
 > annual interest on the bonds and notes and to provide a sinking fund to pay the bonds and notes at maturity?
 
-[Source](https://www.austintexas.gov/edims/document.cfm?id=307013)
+<p class="source"><a href="https://www.austintexas.gov/edims/document.cfm?id=307013">Source</a></p>
