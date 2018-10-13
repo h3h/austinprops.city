@@ -249,16 +249,38 @@ a.header-link:active {
   color: #bbb;
   margin-top: 2rem;
   padding-top: 2rem;
-  text-align: right;
-}
-.site-footer a:link,
-.site-footer a:visited {
-  color: #999;
-}
-.site-footer a:hover,
-.site-footer a:active {
-  color: #333;
-  text-decoration: none;
+
+  p {
+    text-align: right;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+
+    li {
+      display: inline;
+
+      a {
+        padding: 0 1ex;
+      }
+
+      &:not(:first-child):before {
+        content: "|"
+      }
+    }
+  }
+
+  a:link,
+  a:visited {
+    color: #999;
+  }
+
+  a:hover,
+  a:active {
+    color: #333;
+    text-decoration: none;
+  }
 }
 @media screen and (min-width:42em) {
   .site-footer {
