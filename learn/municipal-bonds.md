@@ -29,7 +29,7 @@ and improvements to things in the general shared interest of city residents.
 
 The city pays the bond interest and maturity by raising revenues in the form of property taxes. As of 2018, the city
 taxes property at a rate of 44.48 cents per $100 of property value. 10.55 of those cents are the “debt rate” and go into
-the Debt Service Fund to pay the city’s general obligation bonds.
+the Debt Service Fund, which the city uses to pay the city’s general obligation bonds.
 
 For the median Austin homeowner with a home value of $305,510 this comes out to a tax bill of about $1,250 per year,
 or $104.17 per month. So the median homeowner is paying about $24.70 per month to service the city’s bond debt.
