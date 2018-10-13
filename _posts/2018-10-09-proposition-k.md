@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Proposition K
+title: Proposition K – Require Additional Third-Party City Auditor
+permalink: /:year/proposition-k
 ---
 
 Proposition K is about requiring the city to get an external auditor to look for
