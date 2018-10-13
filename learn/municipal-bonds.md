@@ -10,7 +10,7 @@ Municipal bonds are a way for a city to raise money for some set of projects.
 The city basically says, “We have a lot of taxpayers and we aren’t going anywhere, so you can trust us to pay back
 a loan.”
 
-Then bond purchasers, such as life insurance companies, corporations, and other individuals will loan the city money
+Then bond purchasers, such as life insurance companies, corporations, and other investors will loan the city money
 in exchange for a small bit of interest paid each year. Most of this type of bond interest is also tax deductible on
 U.S. federal income taxes, so the bondholders end up saving on their federal tax bill in addition to the money they
 make each year from their bonds.
@@ -36,7 +36,10 @@ or $104.17 per month. So the median homeowner is paying about $24.70 per month t
 
 ## How is Austin doing with bond debt and property tax rates to fund it?
 
-Compared among the five most populous cities in Texas, Austin ranks 3rd for property tax rate.
+Compared among the five most populous cities in Texas, Austin ranks 3rd for overall property tax rate, behind the rates
+found in Dallas and Forth Worth.
+
+[More to come on comparative debt rates and debt funding tax %]
 
 ## Sources
 
