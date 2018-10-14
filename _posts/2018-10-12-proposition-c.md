@@ -19,6 +19,9 @@ In order to fund these activities, the city is proposing an issuance
 of <nobr><strong>$149 million</strong></nobr> in new bonds, noting that city
 property taxes will be used to fund the interest on those bonds.
 
+## See also
+
+* [How do city bonds work and how are they funded?](/learn/municipal-bonds/)
 
 ## Original city notice
 
