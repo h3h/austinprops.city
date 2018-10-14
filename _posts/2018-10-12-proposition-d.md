@@ -16,7 +16,7 @@ The city wants to be able to:
 
 In order to fund these activities, the city is proposing an issuance
 of <nobr><strong>$184 million</strong></nobr> in new bonds, noting that city
-property taxes will be used to fund the interest on those bonds.
+property taxes will be used to fund the interest and maturity on those bonds.
 
 ## See also
 
