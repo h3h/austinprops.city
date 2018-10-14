@@ -312,11 +312,18 @@ ul.post-index li {
   text-align: right;
 }
 
-.post-title {
+h1.post-title {
   font-size: 1.85rem;
 
   @media screen and (max-width:50em) {
     font-size: 1.15rem;
+  }
+}
+h3.post-title { // used on front page listing of posts
+  font-size: 1.35rem;
+
+  @media screen and (max-width:50em) {
+    font-size: 1rem;
   }
 }
 .post-title a:link,

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Proposition A
+title: Proposition A – Affordable Housing
+permalink: /:year/proposition-a
 ---
 
 Proposition A is about providing affordable housing for those with low or

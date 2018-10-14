@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Proposition C
+title: Proposition C – Public Parks & Recreation
+permalink: /:year/proposition-c
 ---
 
 Proposition C is about funding "public parks, recreation centers, natural areas,
@@ -37,6 +38,6 @@ property taxes will be used to fund the interest on those bonds.
 > pledged, assessed, and collected annually ad valorem taxes on all taxable
 > property in the City in an amount sufficient, within the limits prescribed by
 > law, to pay the annual interest on the bonds and notes and to provide a
-> sinking fund to pay the bonds and notes at maturity? 
+> sinking fund to pay the bonds and notes at maturity?
 
 <p class="source"><a href="https://www.austintexas.gov/edims/document.cfm?id=307013">Source</a></p>

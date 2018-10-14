@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Proposition B
+title: Proposition B – Community & Cultural Facilities
+permalink: /:year/proposition-b
 ---
 
 Proposition B is about funding “community and cultural” facilities, including
