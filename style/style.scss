@@ -301,6 +301,10 @@ a.header-link:active {
 ul.post-index {
   margin: 0 auto;
   width: 80%;
+
+  @media screen and (max-width:50em) {
+    width: 95%;
+  }
 }
 ul.post-index li {
   padding-left: 6px;
