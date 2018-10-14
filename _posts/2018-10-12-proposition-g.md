@@ -2,6 +2,7 @@
 layout: post
 title: Proposition G – Transportation Infrastructure
 permalink: /:year/proposition-g
+tags: bond
 ---
 
 Proposition G is about funding transportation infrastructure improvements.

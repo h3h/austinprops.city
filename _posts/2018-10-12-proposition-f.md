@@ -2,6 +2,7 @@
 layout: post
 title: Proposition F – Fire Department & Emergency Services
 permalink: /:year/proposition-f
+tags: bond
 ---
 
 Proposition F is about funding improvements to existing fire department and

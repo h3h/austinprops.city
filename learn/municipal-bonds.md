@@ -24,9 +24,10 @@ the money back or “matures.”
 Cities typically issue two kinds of bonds (take out two kinds of loans from bond
 purchasers):
 
-* General obligation bonds – secured by the city’s reputation of payment and
-* existing city revenue streams. Revenue bonds – secured by the revenues from a
-* specific project, like a toll road or airport.
+* **General obligation bonds** – secured by the city’s reputation of payment and
+  existing city revenue streams.
+* **Revenue bonds** – secured by the revenues from a specific project, like a
+  toll road or airport.
 
 The Austin City Council issues a number of bonds, with the consent of voters,
 every year to fund various new projects and improvements to things in the
@@ -53,3 +54,11 @@ overall property tax rate, behind the rates found in Dallas and Forth Worth.
 
 * [City of Austin: 2017–2018 Budget](https://assets.austintexas.gov/budget/17-18/downloads/volume_1.pdf)
 * [Wikipedia: Municipal bond](https://en.wikipedia.org/wiki/Municipal_bond)
+
+## Bond-related propositions on the ballot
+
+<ul>
+{% for post in site.tags.bond reversed %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>

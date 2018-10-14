@@ -2,6 +2,7 @@
 layout: post
 title: Proposition E – Health & Human Services
 permalink: /:year/proposition-e
+tags: bond
 ---
 
 Proposition E is about funding "health and human services" in a new

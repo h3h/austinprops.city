@@ -2,6 +2,7 @@
 layout: post
 title: Proposition D – Flood Mitigation & Water Quality
 permalink: /:year/proposition-d
+tags: bond
 ---
 
 Proposition D is about funding "flood mitigation and control, erosion control,

@@ -2,6 +2,7 @@
 layout: post
 title: Proposition B – Community & Cultural Facilities
 permalink: /:year/proposition-b
+tags: bond
 ---
 
 Proposition B is about funding “community and cultural” facilities, including

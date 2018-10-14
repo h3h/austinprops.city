@@ -2,6 +2,7 @@
 layout: post
 title: Proposition C – Public Parks & Recreation
 permalink: /:year/proposition-c
+tags: bond
 ---
 
 Proposition C is about funding "public parks, recreation centers, natural areas,
