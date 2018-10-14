@@ -211,6 +211,20 @@ a.header-link:active {
 .main-content table th {
   font-weight: bold;
 }
+.main-content table tbody th {
+  text-align: left;
+}
+.main-content table .minimize {
+  color: #666;
+  font-size: 0.75rem;
+}
+.main-content table .avg {
+  background-color: #eee;
+}
+.main-content table .highlight {
+  color: #fff;
+  background-color: $blue;
+}
 .main-content table th, .main-content table td {
   padding: 0.5rem 1rem;
   border: 1px solid #e9ebec;
