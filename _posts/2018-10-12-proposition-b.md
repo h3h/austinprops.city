@@ -45,6 +45,7 @@ TBD -->
 
 ## See also
 
+* [City of Austin's Bond Brochure Booklet for Proposition B](http://www.austintexas.gov/sites/default/files/files/Finance/CFO/2018-Bond/Prop_B_Libraries__Museums___Cultural_Centers.pdf)
 * [How do city bonds work and how are they funded?](/learn/municipal-bonds/)
 * [League of Women Voters Austin – 2018 Voting Guide](https://lwvaustin.org/voter-guide/)
 

@@ -14,6 +14,7 @@ property taxes will be used to fund the interest and maturity on those bonds.
 
 ## See also
 
+* [City of Austin's Bond Brochure Booklet for Proposition F](http://www.austintexas.gov/sites/default/files/files/Finance/CFO/2018-Bond/Prop_F_Public_Safety.pdf)
 * [How do city bonds work and how are they funded?](/learn/municipal-bonds/)
 
 ## Original city notice
