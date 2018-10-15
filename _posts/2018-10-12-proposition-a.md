@@ -10,9 +10,9 @@ moderate incomes.
 
 Specifically, the city wants to be able to:
 
-* Plan, design, construct, renovate and equip affordable housing facilities Buy
-* land to support additional affordable housing Take out loans to support those
-* activities
+* Plan, design, construct, renovate and equip affordable housing facilities
+* Buy land to support additional affordable housing
+* Take out loans to support those activities
 
 <p>In order to fund these activities, the city is proposing an issuance of
 <nobr><strong>$250 million</strong></nobr> in new bonds, noting that city
@@ -46,6 +46,7 @@ TBD
 
 ## See also
 
+* [City of Austin's Bond Brochure Booklet for Proposition A](http://www.austintexas.gov/sites/default/files/files/Finance/CFO/2018-Bond/Prop_A_Affordable_Housing.pdf)
 * [How do city bonds work and how are they funded?](/learn/municipal-bonds/)
 * [League of Women Voters Voters Austin – 2018 Voting Guide](https://lwvaustin.org/voter-guide/)
 
