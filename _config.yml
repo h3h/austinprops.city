@@ -21,9 +21,6 @@ permalink: "/:year/:title/"
 
 plugins:
  - jekyll-archives
- - jekyll-paginate
 
 jekyll-archives:
   enabled: [year]
-
-paginate: 15
