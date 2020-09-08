@@ -1,6 +1,6 @@
 # Site settings
 title: "Austin Propositions"
-description: "A simple site about Austin city propositions on the ballot in 2018."
+description: "A simple site about Austin city propositions on the ballot."
 baseurl: ''
 url: 'https://austinprops.city'
 # google_analytics: 'UA-XXXXXX-X'
@@ -19,6 +19,11 @@ exclude:
 
 permalink: "/:year/:title/"
 
-plugins: [jekyll-paginate]
+plugins:
+ - jekyll-archives
+ - jekyll-paginate
+
+jekyll-archives:
+  enabled: [year]
 
 paginate: 15
