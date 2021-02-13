@@ -18,3 +18,12 @@ A simple site about Austin city propositions on the ballot.
 1. Install Docker Compose: `brew install docker-compose`
 1. Make changes to the site and run the site locally: `cd austinprops.city && docker-compose up`
 1. Visit `localhost` to see the site
+
+
+## Contributing
+
+Honestly, we're not looking to get writing and opinions from a wide audience.
+The authors are trying to establish a consistent outlook and point of view for
+the site. However, if you find typos or other errors or have suggestions, you
+can [open an Issue](/h3h/austinprops.city/issues) to discuss it with us. We
+appreciate your time and interest.
