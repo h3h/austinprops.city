@@ -19,6 +19,23 @@ In order to fund these activities, the city is proposing an issuance
 of <nobr><strong>$149 million</strong></nobr> in new bonds, noting that city
 property taxes will be used to fund the interest and maturity on those bonds.
 
+## Evaluation
+
+While the placement of new greenspace can be hotly debated, more parks and
+greenery is a good thing. It's easy to dismiss this bond if you already have a
+neighborhood park you enjoy to frequent. We have the hike and bike trail, why
+do we need more parks? Quite simply, more concrete + more built environment
+= hotter summers. More parks, more trees, and additional ways to move from
+place to place all reduce heat in the city.
+
+Also, your neighbors a few blocks away might not enjoy the same luxury you do.
+Everyone in our city has the right to safely enjoy the pleasant serenity from
+sitting under a shady oak tree or the relief that comes from running through a
+splash pad.
+
+Who doesn't want an additional shady place to sit, fewer cars on the road,
+and another fun place to bring their kids to on a summer afternoon?
+
 ## See also
 
 * [City of Austin's Bond Brochure Booklet for Proposition C](http://www.austintexas.gov/sites/default/files/files/Finance/CFO/2018-Bond/Prop_C_Parks_and_Recreation.pdf)

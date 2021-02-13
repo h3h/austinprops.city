@@ -12,3 +12,4 @@ what they found with anyone who would find it useful.
 The current authors are:
 * [Brad Fults](https://bradfults.com)
 * [Ben Hamill](http://benhamill.com)
+* [James Martin](https://jameslmart.in)
