@@ -42,6 +42,10 @@ a:active {
   text-align: center;
 }
 
+.page-title {
+  text-align: center;
+}
+
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
@@ -273,15 +277,8 @@ a.header-link:active {
     padding: 0;
 
     li {
-      display: inline;
-
-      a {
-        padding: 0 1ex;
-      }
-
-      &:not(:first-child):before {
-        content: " | "
-      }
+      display: inline-block;
+      padding: 0 1ex;
     }
   }
 
@@ -372,10 +369,6 @@ h3.post-title { // used on front page listing of posts
     float: right;
     margin: 1rem 0 0 1.5rem;
   }
-}
-
-.pagination {
-  text-align: center;
 }
 
 label:hover {
