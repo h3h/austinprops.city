@@ -3,8 +3,7 @@ layout: default
 ---
 
 <ul class="post-index">
-  {% for post in site.posts reversed %} {% if post.date | date: "%Y" == "2025"
-  %}
+  {% for post in site.posts %} {% if post.date | date: "%Y" == "2025" %}
   <li>
     <h3 class="post-title" itemprop="name headline">
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"
