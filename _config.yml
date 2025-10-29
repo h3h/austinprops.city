@@ -1,8 +1,8 @@
 # Site settings
 title: "Austin Propositions"
-description: "A simple site about Austin city propositions on the ballot in 2018."
-baseurl: ''
-url: 'https://austinprops.city'
+description: "A simple site about Austin city propositions on the ballot."
+baseurl: ""
+url: "https://austinprops.city"
 # google_analytics: 'UA-XXXXXX-X'
 # twitter_username: 'twitter_username'
 
