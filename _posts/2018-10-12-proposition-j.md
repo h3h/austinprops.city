@@ -2,6 +2,7 @@
 layout: post
 title: Proposition J – Require Popular Vote for Land Use Code
 permalink: /:year/proposition-j
+published: false
 ---
 
 Proposition J is about requiring any "comprehensive rewrite" of the city land
