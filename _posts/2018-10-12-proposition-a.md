@@ -2,6 +2,7 @@
 layout: post
 title: Proposition A – Affordable Housing
 permalink: /:year/proposition-a
+published: false
 tags: bond
 ---
 
