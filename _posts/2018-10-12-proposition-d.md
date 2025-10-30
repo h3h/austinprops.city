@@ -2,6 +2,7 @@
 layout: post
 title: Proposition D – Flood Mitigation & Water Quality
 permalink: /:year/proposition-d
+published: false
 tags: bond
 ---
 
