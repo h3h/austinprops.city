@@ -2,6 +2,7 @@
 layout: post
 title: Proposition B – Community & Cultural Facilities
 permalink: /:year/proposition-b
+published: false
 tags: bond
 ---
 
