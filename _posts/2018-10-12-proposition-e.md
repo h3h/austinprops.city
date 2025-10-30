@@ -2,6 +2,7 @@
 layout: post
 title: Proposition E – Health & Human Services
 permalink: /:year/proposition-e
+published: false
 tags: bond
 ---
 
