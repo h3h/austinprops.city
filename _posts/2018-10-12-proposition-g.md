@@ -2,6 +2,7 @@
 layout: post
 title: Proposition G – Transportation Infrastructure
 permalink: /:year/proposition-g
+published: false
 tags: bond
 ---
 
