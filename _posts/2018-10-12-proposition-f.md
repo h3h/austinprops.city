@@ -2,6 +2,7 @@
 layout: post
 title: Proposition F – Fire Department & Emergency Services
 permalink: /:year/proposition-f
+published: false
 tags: bond
 ---
 
