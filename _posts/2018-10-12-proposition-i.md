@@ -2,6 +2,7 @@
 layout: post
 title: Proposition I – Better Spelling & Grammar for City Charter
 permalink: /:year/proposition-i
+published: false
 ---
 
 Proposition I allows for the City Charter to be cleaned up, with spelling,
