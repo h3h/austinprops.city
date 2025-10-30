@@ -2,6 +2,7 @@
 layout: post
 title: Proposition C – Public Parks & Recreation
 permalink: /:year/proposition-c
+published: false
 tags: bond
 ---
 
