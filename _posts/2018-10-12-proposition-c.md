@@ -2,7 +2,9 @@
 layout: post
 title: Proposition C – Public Parks & Recreation
 permalink: /:year/proposition-c
-published: false
+ballot: 2018
+jurisdiction: City of Austin
+order: 3
 tags: bond
 ---
 

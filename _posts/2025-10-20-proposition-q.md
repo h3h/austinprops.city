@@ -2,7 +2,11 @@
 layout: post
 title: Proposition Q – Critical funding for Austin city issues
 permalink: /:year/proposition-q
-tags: bond
+ballot: 2025
+jurisdiction: City of Austin
+order: 1
+tags: tax
+recommendation: Yes
 ---
 
 Proposition Q allows a tax rate increase beyond the new state limit without

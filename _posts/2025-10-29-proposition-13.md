@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 13 – Increased school tax exemption for homeowners
 permalink: /:year/proposition-13
+ballot: 2025
+jurisdiction: State of Texas
+order: 113
 tags: amendment
+recommendation: No
 ---
 
 Proposition 13 increases the school tax exemption for homeowners.

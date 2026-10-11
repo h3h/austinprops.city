@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 1 – Funding boost for Texas technical colleges
 permalink: /:year/proposition-1
-tags: bond
+ballot: 2025
+jurisdiction: State of Texas
+order: 101
+tags: amendment
+recommendation: Yes
 ---
 
 Proposition 1 is about providing a funding boost for Texas technical colleges.

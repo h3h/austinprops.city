@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 6 – Ban on some taxes aimed at financial service providers
 permalink: /:year/proposition-6
+ballot: 2025
+jurisdiction: State of Texas
+order: 106
 tags: amendment
+recommendation: No
 ---
 
 Proposition 6 is about exempting a new Texas stock exchange from taxes.

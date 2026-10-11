@@ -2,7 +2,9 @@
 layout: post
 title: Proposition G – Transportation Infrastructure
 permalink: /:year/proposition-g
-published: false
+ballot: 2018
+jurisdiction: City of Austin
+order: 7
 tags: bond
 ---
 

@@ -1,0 +1,10 @@
+---
+layout: page
+title: Archive
+permalink: /archive
+---
+{% assign ballots = site.posts | where_exp: "post", "post.ballot != site.current_ballot" | group_by: "ballot" | sort: "name" | reverse %}
+{% for ballot in ballots %}
+<h2 class="ballot-year">{{ ballot.name }}</h2>
+{% include ballot.html posts=ballot.items heading_level=3 %}
+{% endfor %}

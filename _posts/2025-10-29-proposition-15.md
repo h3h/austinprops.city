@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 15 – Solidifying parents rights
 permalink: /:year/proposition-15
+ballot: 2025
+jurisdiction: State of Texas
+order: 115
 tags: amendment
+recommendation: No
 ---
 
 Proposition 15 creates specific provisions for parents’ rights in the Texas

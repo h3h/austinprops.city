@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 5 – Animal feed tax exemption
 permalink: /:year/proposition-5
+ballot: 2025
+jurisdiction: State of Texas
+order: 105
 tags: amendment
+recommendation: No
 ---
 
 Proposition 5 is about animal feed tax exemption.

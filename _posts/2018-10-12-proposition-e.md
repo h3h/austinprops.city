@@ -2,7 +2,9 @@
 layout: post
 title: Proposition E – Health & Human Services
 permalink: /:year/proposition-e
-published: false
+ballot: 2018
+jurisdiction: City of Austin
+order: 5
 tags: bond
 ---
 

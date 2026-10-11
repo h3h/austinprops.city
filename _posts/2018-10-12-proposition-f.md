@@ -2,7 +2,9 @@
 layout: post
 title: Proposition F – Fire Department & Emergency Services
 permalink: /:year/proposition-f
-published: false
+ballot: 2018
+jurisdiction: City of Austin
+order: 6
 tags: bond
 ---
 

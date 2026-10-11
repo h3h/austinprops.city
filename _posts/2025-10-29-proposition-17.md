@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 17 – Property tax breaks for border security projects
 permalink: /:year/proposition-17
+ballot: 2025
+jurisdiction: State of Texas
+order: 117
 tags: amendment
+recommendation: No
 ---
 
 Proposition 17 introduces tax breaks for landowners in counties that border

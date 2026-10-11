@@ -1,0 +1,20 @@
+{% comment %}
+  Renders one ballot's propositions grouped by jurisdiction.
+  Pass `posts` (already filtered to one ballot) and optionally `heading_level`.
+{% endcomment %}
+{% assign level = include.heading_level | default: 2 %}
+{% assign sorted = include.posts | sort: "order" %}
+{% assign groups = sorted | group_by: "jurisdiction" %}
+{% for group in groups %}
+<h{{ level }} class="ballot-jurisdiction">{{ group.name }}</h{{ level }}>
+<ul class="post-index">
+  {% for post in group.items %}
+  <li>
+    <h3 class="post-title" itemprop="name headline">
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      {% if post.recommendation %}<span class="rec rec-{{ post.recommendation | downcase }}">{{ post.recommendation }}</span>{% endif %}
+    </h3>
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}

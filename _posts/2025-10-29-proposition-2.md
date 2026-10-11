@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 2 – A ban on capital gains tax
 permalink: /:year/proposition-2
+ballot: 2025
+jurisdiction: State of Texas
+order: 102
 tags: amendment
+recommendation: No
 ---
 
 Proposition 2 is about banning capital gains tax.

@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 11 – School tax exemption for homeowners who are disabled or over 65
 permalink: /:year/proposition-11
+ballot: 2025
+jurisdiction: State of Texas
+order: 111
 tags: amendment
+recommendation: No
 ---
 
 Proposition 11 gives a school property tax exemption for homeowners who are

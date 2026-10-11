@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 4 – Water infrastructure funding
 permalink: /:year/proposition-4
+ballot: 2025
+jurisdiction: State of Texas
+order: 104
 tags: amendment
+recommendation: Yes
 ---
 
 Proposition 4 is about water infrastructure funding.

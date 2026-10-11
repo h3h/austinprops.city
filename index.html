@@ -1,15 +1,27 @@
 ---
 layout: default
 ---
+{% assign current = site.posts | where: "ballot", site.current_ballot %}
+{% assign recap = current | sort: "order" %}
 
-<ul class="post-index">
-  {% for post in site.posts %} {% if post.date | date: "%Y" == "2025" %}
-  <li>
-    <h3 class="post-title" itemprop="name headline">
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"
-        >{{ post.title }}</a
-      >
-    </h3>
-  </li>
-  {% endif %} {% endfor %}
-</ul>
+<p class="ballot-intro">
+  Our research and recommendations for the propositions on the
+  <strong>{{ site.election_date }}</strong> ballot in Austin.
+  Looking for an earlier election? See the <a href="/archive">archive</a>.
+</p>
+
+{% include ballot.html posts=current %}
+
+<h2 class="ballot-jurisdiction">Cheat sheet</h2>
+<table class="recap">
+  <thead><tr><th>Ballot</th><th>Proposition</th><th>Our recommendation</th></tr></thead>
+  <tbody>
+    {% for post in recap %}
+    <tr>
+      <td>{{ post.jurisdiction }}</td>
+      <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.short_title | default: post.title }}</a></td>
+      <td>{{ post.recommendation }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

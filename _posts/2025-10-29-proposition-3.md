@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 3 – Mandatory bail denial
 permalink: /:year/proposition-3
+ballot: 2025
+jurisdiction: State of Texas
+order: 103
 tags: amendment
+recommendation: No
 ---
 
 Proposition 3 is about mandatory bail denial.

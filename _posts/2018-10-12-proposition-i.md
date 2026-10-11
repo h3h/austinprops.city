@@ -2,7 +2,10 @@
 layout: post
 title: Proposition I – Better Spelling & Grammar for City Charter
 permalink: /:year/proposition-i
-published: false
+ballot: 2018
+jurisdiction: City of Austin
+order: 9
+tags: charter
 ---
 
 Proposition I allows for the City Charter to be cleaned up, with spelling,

@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 9 – Property tax exemption for landlords and business owners
 permalink: /:year/proposition-9
+ballot: 2025
+jurisdiction: State of Texas
+order: 109
 tags: amendment
+recommendation: No
 ---
 
 Proposition 9 would provide a property tax exemption for landlords and business

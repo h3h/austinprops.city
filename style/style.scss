@@ -381,3 +381,51 @@ h3.post-title { // used on front page listing of posts
 label:hover {
   cursor: pointer;
 }
+
+// Ballot listings (home page and archive)
+.ballot-intro {
+  margin: 0 auto 1.5rem;
+  width: 80%;
+  @media screen and (max-width:50em) {
+    width: 95%;
+  }
+}
+h2.ballot-year,
+.ballot-jurisdiction {
+  margin: 2rem auto 0;
+  width: 80%;
+  color: $blue;
+  @media screen and (max-width:50em) {
+    width: 95%;
+  }
+}
+h2.ballot-year {
+  border-bottom: 2px solid $gold;
+}
+.rec {
+  display: inline-block;
+  margin-left: 0.5rem;
+  padding: 0 0.5rem;
+  border-radius: 3px;
+  font-size: 0.75em;
+  vertical-align: middle;
+  color: #fff;
+  background: #5F7585;
+}
+.rec-yes { background: $blue; }
+.rec-no { background: $red; }
+
+// Recap table on the home page
+table.recap {
+  margin: 0 auto 2rem;
+  width: 80%;
+  border-collapse: collapse;
+  @media screen and (max-width:50em) {
+    width: 95%;
+  }
+  th, td {
+    padding: 0.25rem 0.5rem;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+  }
+}

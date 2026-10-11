@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 16 – Clarifying citizenship as a requirement for voting
 permalink: /:year/proposition-16
+ballot: 2025
+jurisdiction: State of Texas
+order: 116
 tags: amendment
+recommendation: No
 ---
 
 Proposition 16 clarifies that only citizens can vote in Texas.

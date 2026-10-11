@@ -2,7 +2,9 @@
 layout: post
 title: Proposition A – Affordable Housing
 permalink: /:year/proposition-a
-published: false
+ballot: 2018
+jurisdiction: City of Austin
+order: 1
 tags: bond
 ---
 

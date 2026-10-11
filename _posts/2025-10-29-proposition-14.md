@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 14 – Funding for dementia research and prevention
 permalink: /:year/proposition-14
+ballot: 2025
+jurisdiction: State of Texas
+order: 114
 tags: amendment
+recommendation: Yes
 ---
 
 Proposition 14 is about creating and funding the Dementia Prevention and

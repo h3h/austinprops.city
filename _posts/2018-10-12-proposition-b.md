@@ -2,7 +2,9 @@
 layout: post
 title: Proposition B – Community & Cultural Facilities
 permalink: /:year/proposition-b
-published: false
+ballot: 2018
+jurisdiction: City of Austin
+order: 2
 tags: bond
 ---
 

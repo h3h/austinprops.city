@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 8 – Inheritance tax ban
 permalink: /:year/proposition-8
+ballot: 2025
+jurisdiction: State of Texas
+order: 108
 tags: amendment
+recommendation: No
 ---
 
 Just like Proposition 2 and Proposition 6, Proposition 8 is about banning

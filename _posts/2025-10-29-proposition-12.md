@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 12 – Changes to who disciplines state judges — and how
 permalink: /:year/proposition-12
+ballot: 2025
+jurisdiction: State of Texas
+order: 112
 tags: amendment
+recommendation: No
 ---
 
 Proposition 12 changes who disciplines state judges and how.

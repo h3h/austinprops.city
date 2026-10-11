@@ -2,7 +2,10 @@
 layout: post
 title: Proposition H – Planning Commission Appointments
 permalink: /:year/proposition-h
-published: false
+ballot: 2018
+jurisdiction: City of Austin
+order: 8
+tags: charter
 ---
 
 Proposition H is about changing city rules to allow the City Council to appoint

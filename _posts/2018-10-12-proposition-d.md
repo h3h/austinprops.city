@@ -2,7 +2,9 @@
 layout: post
 title: Proposition D – Flood Mitigation & Water Quality
 permalink: /:year/proposition-d
-published: false
+ballot: 2018
+jurisdiction: City of Austin
+order: 4
 tags: bond
 ---
 

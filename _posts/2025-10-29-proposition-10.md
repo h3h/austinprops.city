@@ -2,7 +2,11 @@
 layout: post
 title: Proposition 10 – Temporary property tax exemption for homes destroyed by fire
 permalink: /:year/proposition-10
+ballot: 2025
+jurisdiction: State of Texas
+order: 110
 tags: amendment
+recommendation: Yes
 ---
 
 Proposition 10 gives a temporary property tax exemption for homes destroyed by
