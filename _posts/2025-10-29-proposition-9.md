@@ -6,7 +6,7 @@ ballot: 2025
 jurisdiction: State of Texas
 order: 109
 tags: amendment
-recommendation: No
+recommendation: "No"
 ---
 
 Proposition 9 would provide a property tax exemption for landlords and business

@@ -6,7 +6,7 @@ ballot: 2025
 jurisdiction: State of Texas
 order: 114
 tags: amendment
-recommendation: Yes
+recommendation: "Yes"
 ---
 
 Proposition 14 is about creating and funding the Dementia Prevention and

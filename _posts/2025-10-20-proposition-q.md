@@ -6,7 +6,7 @@ ballot: 2025
 jurisdiction: City of Austin
 order: 1
 tags: tax
-recommendation: Yes
+recommendation: "Yes"
 ---
 
 Proposition Q allows a tax rate increase beyond the new state limit without

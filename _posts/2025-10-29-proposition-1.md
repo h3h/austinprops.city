@@ -6,7 +6,7 @@ ballot: 2025
 jurisdiction: State of Texas
 order: 101
 tags: amendment
-recommendation: Yes
+recommendation: "Yes"
 ---
 
 Proposition 1 is about providing a funding boost for Texas technical colleges.

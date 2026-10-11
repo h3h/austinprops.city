@@ -12,6 +12,10 @@ layout: default
 
 {% include ballot.html posts=current %}
 
+{% if site.ballot_note %}
+<p class="ballot-intro">{{ site.ballot_note }}</p>
+{% endif %}
+
 <h2 class="ballot-jurisdiction">Cheat sheet</h2>
 <table class="recap">
   <thead><tr><th>Ballot</th><th>Proposition</th><th>Our recommendation</th></tr></thead>

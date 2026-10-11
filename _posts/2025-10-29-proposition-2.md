@@ -6,7 +6,7 @@ ballot: 2025
 jurisdiction: State of Texas
 order: 102
 tags: amendment
-recommendation: No
+recommendation: "No"
 ---
 
 Proposition 2 is about banning capital gains tax.

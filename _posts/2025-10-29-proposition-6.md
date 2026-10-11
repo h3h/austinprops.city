@@ -6,7 +6,7 @@ ballot: 2025
 jurisdiction: State of Texas
 order: 106
 tags: amendment
-recommendation: No
+recommendation: "No"
 ---
 
 Proposition 6 is about exempting a new Texas stock exchange from taxes.

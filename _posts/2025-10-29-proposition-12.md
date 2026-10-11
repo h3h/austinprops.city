@@ -6,7 +6,7 @@ ballot: 2025
 jurisdiction: State of Texas
 order: 112
 tags: amendment
-recommendation: No
+recommendation: "No"
 ---
 
 Proposition 12 changes who disciplines state judges and how.

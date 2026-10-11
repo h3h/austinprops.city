@@ -6,7 +6,7 @@ ballot: 2025
 jurisdiction: State of Texas
 order: 104
 tags: amendment
-recommendation: Yes
+recommendation: "Yes"
 ---
 
 Proposition 4 is about water infrastructure funding.

@@ -6,7 +6,7 @@ ballot: 2025
 jurisdiction: State of Texas
 order: 108
 tags: amendment
-recommendation: No
+recommendation: "No"
 ---
 
 Just like Proposition 2 and Proposition 6, Proposition 8 is about banning

@@ -7,6 +7,10 @@ url: "https://austinprops.city"
 # The ballot shown on the home page. Older ballots live on /archive.
 current_ballot: 2026
 election_date: "November 3, 2026"
+ballot_note: >-
+  Travis County, Austin ISD and the State of Texas have no propositions on this
+  ballot. Your ballot still has races for those offices; look up your sample
+  ballot at <a href="https://votetravis.gov">VoteTravis.gov</a>.
 # google_analytics: 'UA-XXXXXX-X'
 # twitter_username: 'twitter_username'
 

@@ -6,7 +6,7 @@ ballot: 2025
 jurisdiction: State of Texas
 order: 111
 tags: amendment
-recommendation: No
+recommendation: "No"
 ---
 
 Proposition 11 gives a school property tax exemption for homeowners who are

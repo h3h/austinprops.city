@@ -6,7 +6,7 @@ ballot: 2025
 jurisdiction: State of Texas
 order: 117
 tags: amendment
-recommendation: No
+recommendation: "No"
 ---
 
 Proposition 17 introduces tax breaks for landowners in counties that border

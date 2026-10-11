@@ -6,7 +6,7 @@ ballot: 2025
 jurisdiction: State of Texas
 order: 110
 tags: amendment
-recommendation: Yes
+recommendation: "Yes"
 ---
 
 Proposition 10 gives a temporary property tax exemption for homes destroyed by
