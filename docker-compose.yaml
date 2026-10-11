@@ -1,10 +1,10 @@
-version: "3"
 services:
   site:
-    command: jekyll serve
-    image: jekyll/jekyll:latest
+    image: ruby:3.3
+    working_dir: /srv/jekyll
+    command: sh -c "bundle install && bundle exec jekyll serve --host 0.0.0.0"
     volumes:
       - $PWD:/srv/jekyll
       - $PWD/vendor/bundle:/usr/local/bundle
     ports:
-      -   80:4000
+      - 80:4000
