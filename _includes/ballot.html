@@ -7,12 +7,12 @@
 {% assign groups = sorted | group_by: "jurisdiction" %}
 {% for group in groups %}
 <h{{ level }} class="ballot-jurisdiction">{{ group.name }}</h{{ level }}>
-<ul class="post-index">
+<ul class="post-index ballot-list">
   {% for post in group.items %}
   <li>
     <h3 class="post-title" itemprop="name headline">
+      {% if post.recommendation %}<span class="rec rec-{{ post.recommendation | downcase }}">{{ post.recommendation }}</span>{% else %}<span class="rec rec-none" aria-hidden="true"></span>{% endif %}
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      {% if post.recommendation %}<span class="rec rec-{{ post.recommendation | downcase }}">{{ post.recommendation }}</span>{% endif %}
     </h3>
   </li>
   {% endfor %}
