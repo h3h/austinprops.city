@@ -16,5 +16,9 @@ layout: default
         <p class="post-meta">
             <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
     </div>
+    {% if page.ballot == site.current_ballot %}
     <h3 class="post-return-home"><a href="/">&larr; Back Home</a></h3>
+    {% else %}
+    <h3 class="post-return-home"><a href="/archive">&larr; Back to Archive</a></h3>
+    {% endif %}
 </article>
