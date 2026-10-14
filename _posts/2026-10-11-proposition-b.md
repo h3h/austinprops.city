@@ -25,8 +25,12 @@ investment. A library and health clinic are about as clear a public good as a
 city can buy.
 
 The cost is included in the roughly $40 a year estimated for Props A and B
-together on a median-valued home. See [Proposition A](/2026/proposition-a) for
-that estimate and for the arguments against this year’s bonds.
+together on a median-valued home. In tax rate terms, that’s a little under
+**1 cent per $100** of property value for both bonds, and about **0.1 cents per
+$100** for Prop B on its own. (That’s our math: the $40 estimate divided by the
+median home value, with Prop B’s share based on its $35 million out of the
+$295 million total.) See [Proposition A](/2026/proposition-a) for the sources
+behind that estimate and for the arguments against this year’s bonds.
 
 **Recommendation:** Yes
 
