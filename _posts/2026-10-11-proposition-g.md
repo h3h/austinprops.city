@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Proposition G – Hold citizen petition elections in even-year Novembers
-short_title: "Prop G – Petition election timing"
 permalink: /:year/proposition-g
 ballot: 2026
 jurisdiction: City of Austin

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Proposition F – Campaign contribution limit updates
-short_title: "Prop F – Campaign finance timing"
 permalink: /:year/proposition-f
 ballot: 2026
 jurisdiction: City of Austin

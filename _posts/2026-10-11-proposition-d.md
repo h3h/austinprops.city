@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Proposition D – Drop the weekly council meeting requirement
-short_title: "Prop D – Council meeting schedule"
 permalink: /:year/proposition-d
 ballot: 2026
 jurisdiction: City of Austin

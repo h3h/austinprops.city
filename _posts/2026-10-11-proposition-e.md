@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Proposition E – How council sets its own rules
-short_title: "Prop E – Council rules"
 permalink: /:year/proposition-e
 ballot: 2026
 jurisdiction: City of Austin

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Proposition B – $35 million for libraries
-short_title: "Prop B – Library bond ($35M)"
 permalink: /:year/proposition-b
 ballot: 2026
 jurisdiction: City of Austin

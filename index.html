@@ -2,7 +2,6 @@
 layout: default
 ---
 {% assign current = site.posts | where: "ballot", site.current_ballot %}
-{% assign recap = current | sort: "order" %}
 
 <p class="ballot-intro">
   Our research and recommendations for the propositions on the
@@ -16,16 +15,3 @@ layout: default
 <p class="ballot-intro">{{ site.ballot_note }}</p>
 {% endif %}
 
-<h2 class="ballot-jurisdiction">Cheat sheet</h2>
-<table class="recap">
-  <thead><tr><th>Ballot</th><th>Proposition</th><th>Our recommendation</th></tr></thead>
-  <tbody>
-    {% for post in recap %}
-    <tr>
-      <td>{{ post.jurisdiction }}</td>
-      <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.short_title | default: post.title }}</a></td>
-      <td>{{ post.recommendation }}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>

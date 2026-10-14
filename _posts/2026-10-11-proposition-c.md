@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Proposition C – Independence of the redistricting commission
-short_title: "Prop C – Redistricting commission"
 permalink: /:year/proposition-c
 ballot: 2026
 jurisdiction: City of Austin

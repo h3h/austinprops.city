@@ -428,17 +428,3 @@ ul.ballot-list .post-title {
 .rec-no { background: $red; }
 .rec-none { background: transparent; }
 
-// Recap table on the home page
-table.recap {
-  margin: 0 auto 2rem;
-  width: 80%;
-  border-collapse: collapse;
-  @media screen and (max-width:50em) {
-    width: 95%;
-  }
-  th, td {
-    padding: 0.25rem 0.5rem;
-    border-bottom: 1px solid #ddd;
-    text-align: left;
-  }
-}

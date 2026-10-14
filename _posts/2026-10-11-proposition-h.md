@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Proposition H – Council appoints the City Attorney
-short_title: "Prop H – Who appoints the City Attorney"
 permalink: /:year/proposition-h
 ballot: 2026
 jurisdiction: City of Austin

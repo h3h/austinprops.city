@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Proposition I – Required outside audits before any tax rate election
-short_title: "Prop I – Mandatory efficiency audits"
 permalink: /:year/proposition-i
 ballot: 2026
 jurisdiction: City of Austin

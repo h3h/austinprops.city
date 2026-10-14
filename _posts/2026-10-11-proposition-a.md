@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Proposition A – $260 million for parks, pools & open space
-short_title: "Prop A – Parks bond ($260M)"
 permalink: /:year/proposition-a
 ballot: 2026
 jurisdiction: City of Austin

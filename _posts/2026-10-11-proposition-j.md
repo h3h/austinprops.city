@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Proposition J – Charter cleanup
-short_title: "Prop J – Charter cleanup"
 permalink: /:year/proposition-j
 ballot: 2026
 jurisdiction: City of Austin
