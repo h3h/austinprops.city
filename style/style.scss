@@ -428,3 +428,12 @@ ul.ballot-list .post-title {
 .rec-no { background: $red; }
 .rec-none { background: transparent; }
 
+
+// Election result on past proposition pages
+.result {
+  padding: 0.5rem 0.75rem;
+  border-left: 4px solid #5F7585;
+  background: #f4f6f8;
+}
+.result-passed { border-left-color: $blue; }
+.result-failed { border-left-color: $red; }
