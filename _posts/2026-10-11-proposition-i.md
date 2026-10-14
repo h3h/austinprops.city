@@ -81,6 +81,12 @@ Auditor’s office said it can’t estimate the cost because nothing like it has
 been done before ([KXAN][KX2]). Opponents’ figures of $5–20 million per review
 are not backed up with any published math, so we’re not repeating them as fact.
 
+**It’s organized by and benefits millionaires and billionaires who want to exert
+control over city processes.** Save Austin Now’s campaign runs on a small number
+of very large checks, including several individual contributions of $25,000 or
+more ([Transparency USA][TUSA]; filings are on the
+[City Clerk’s site][CF]).
+
 ## We’ve seen this before
 
 In 2018 voters rejected [Proposition K](/2018/proposition-k), a petition that
@@ -106,4 +112,6 @@ the wrong tool.
 [CON]: https://communityimpact.com/austin/south-central-austin/government/2026/03/04/audit-austin-may-not-be-able-to-justify-hundreds-of-millions-in-recent-consultant-spending/
 [FEB]: https://services.austintexas.gov/edims/document.cfm?id=468615
 [CI]: https://communityimpact.com/central-austin/government/austin-leaders-advance-52m-contract-for-multiyear-citywide-audit-program/
+[TUSA]: https://www.transparencyusa.org/tx/committee/save-austin-now-pac-00085302-gpac
+[CF]: https://www.austintexas.gov/clerk/elections/2026_campaign_finance_reporting
 [KUT18]: https://www.kut.org/politics/2018-11-07/2018-election-results-austin-shoots-down-props-j-and-k-approves-925-million-in-bonds
