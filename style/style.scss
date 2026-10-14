@@ -406,14 +406,17 @@ h2.ballot-year {
 ul.ballot-list {
   list-style: none;
   padding-left: 0;
+  margin-bottom: 2.5rem;
 }
+// Badge column + title column; the badge centers on titles that wrap.
 ul.ballot-list .post-title {
-  display: flex;
-  align-items: baseline;
-  gap: 0.75rem;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  column-gap: 0.75rem;
 }
 .rec {
-  flex: 0 0 2.75em;
+  width: 2.75em;
   padding: 0.1em 0;
   border-radius: 3px;
   font-size: 0.75em;
