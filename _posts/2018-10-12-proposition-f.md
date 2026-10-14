@@ -6,6 +6,11 @@ ballot: 2018
 jurisdiction: City of Austin
 order: 6
 tags: bond
+result: "Passed"
+result_for: 81.4
+result_against: 18.6
+result_source: https://ballotpedia.org/Austin,_Texas,_Proposition_F,_Public_Safety_Bond_Issue_(November_2018)
+result_note: "Travis County portion of the city vote"
 ---
 
 Proposition F is about funding improvements to existing fire department and

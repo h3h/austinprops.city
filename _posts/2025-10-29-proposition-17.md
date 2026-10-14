@@ -7,6 +7,10 @@ jurisdiction: State of Texas
 order: 117
 tags: amendment
 recommendation: "No"
+result: "Passed"
+result_for: 57.7
+result_against: 42.3
+result_source: https://en.wikipedia.org/wiki/2025_Texas_constitutional_amendment_election
 ---
 
 Proposition 17 introduces tax breaks for landowners in counties that border

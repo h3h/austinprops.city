@@ -6,6 +6,11 @@ ballot: 2018
 jurisdiction: City of Austin
 order: 10
 tags: charter
+result: "Failed"
+result_for: 47.8
+result_against: 52.2
+result_source: https://ballotpedia.org/Austin,_Texas,_Proposition_J,_Land_Development_Code_(November_2018)
+result_note: "Travis County portion of the city vote"
 ---
 
 Proposition J is about requiring any "comprehensive rewrite" of the city land

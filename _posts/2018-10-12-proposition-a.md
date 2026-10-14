@@ -6,6 +6,11 @@ ballot: 2018
 jurisdiction: City of Austin
 order: 1
 tags: bond
+result: "Passed"
+result_for: 73.3
+result_against: 26.7
+result_source: https://www.kut.org/politics/2018-11-07/2018-election-results-austin-shoots-down-props-j-and-k-approves-925-million-in-bonds
+result_note: "Travis County portion of the city vote"
 ---
 
 Proposition A is about providing affordable housing for those with low or

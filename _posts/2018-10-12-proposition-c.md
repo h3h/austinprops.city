@@ -6,6 +6,11 @@ ballot: 2018
 jurisdiction: City of Austin
 order: 3
 tags: bond
+result: "Passed"
+result_for: 81.2
+result_against: 18.8
+result_source: https://ballotpedia.org/Austin,_Texas,_Proposition_C,_Parks_and_Recreation_Bond_Issue_(November_2018)
+result_note: "Travis County portion of the city vote"
 ---
 
 Proposition C is about funding "public parks, recreation centers, natural areas,

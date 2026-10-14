@@ -8,7 +8,7 @@ layout: default
         </header>
         {% if page.result %}
         <p class="result result-{{ page.result | downcase }}">
-            <strong>Result:</strong> {{ page.result }}{% if page.result_for %}, {{ page.result_for }}% for to {{ page.result_against }}% against{% endif %}.
+            <strong>Result:</strong> {{ page.result }}{% if page.result_for %}, {{ page.result_for }}% for to {{ page.result_against }}% against{% endif %}{% if page.result_note %} ({{ page.result_note }}){% endif %}.
             {% if page.result_source %}<a href="{{ page.result_source }}">Source</a>{% endif %}
         </p>
         {% endif %}

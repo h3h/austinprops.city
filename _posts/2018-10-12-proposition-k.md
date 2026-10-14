@@ -6,6 +6,11 @@ ballot: 2018
 jurisdiction: City of Austin
 order: 11
 tags: ordinance
+result: "Failed"
+result_for: 42.1
+result_against: 57.9
+result_source: https://ballotpedia.org/Austin,_Texas,_Proposition_K,_Efficiency_Study_(November_2018)
+result_note: "Travis County portion of the city vote"
 ---
 
 Proposition K is about requiring the city to get an external auditor to look for

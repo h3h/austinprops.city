@@ -6,6 +6,11 @@ ballot: 2018
 jurisdiction: City of Austin
 order: 2
 tags: bond
+result: "Passed"
+result_for: 74.1
+result_against: 25.9
+result_source: https://ballotpedia.org/Austin,_Texas,_Proposition_B,_Libraries,_Museums_and_Cultural_Arts_Facilities_Bond_Issue_(November_2018)
+result_note: "Travis County portion of the city vote"
 ---
 
 Proposition B is about funding “community and cultural” facilities, including

@@ -6,6 +6,11 @@ ballot: 2018
 jurisdiction: City of Austin
 order: 4
 tags: bond
+result: "Passed"
+result_for: 84.1
+result_against: 15.9
+result_source: https://ballotpedia.org/Austin,_Texas,_Proposition_D,_Flood_Mitigation,_Open_Space_and_Water_Quality_Protection_Bond_Issue_(November_2018)
+result_note: "Travis County portion of the city vote"
 ---
 
 Proposition D is about funding "flood mitigation and control, erosion control,

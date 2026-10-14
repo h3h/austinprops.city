@@ -7,6 +7,10 @@ jurisdiction: State of Texas
 order: 101
 tags: amendment
 recommendation: "Yes"
+result: "Passed"
+result_for: 69.2
+result_against: 30.8
+result_source: https://en.wikipedia.org/wiki/2025_Texas_constitutional_amendment_election
 ---
 
 Proposition 1 is about providing a funding boost for Texas technical colleges.

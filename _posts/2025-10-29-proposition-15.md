@@ -7,6 +7,10 @@ jurisdiction: State of Texas
 order: 115
 tags: amendment
 recommendation: "No"
+result: "Passed"
+result_for: 69.9
+result_against: 30.1
+result_source: https://en.wikipedia.org/wiki/2025_Texas_constitutional_amendment_election
 ---
 
 Proposition 15 creates specific provisions for parents’ rights in the Texas

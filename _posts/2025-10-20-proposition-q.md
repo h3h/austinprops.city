@@ -7,6 +7,11 @@ jurisdiction: City of Austin
 order: 1
 tags: tax
 recommendation: "Yes"
+result: "Failed"
+result_for: 36.5
+result_against: 63.5
+result_source: https://www.axios.com/local/austin/2025/11/05/prop-q-austin
+result_note: "unofficial election-night totals"
 ---
 
 See [2026’s Proposition I](/2026/proposition-i) for what came next.

@@ -7,6 +7,10 @@ jurisdiction: State of Texas
 order: 103
 tags: amendment
 recommendation: "No"
+result: "Passed"
+result_for: 61.4
+result_against: 38.6
+result_source: https://en.wikipedia.org/wiki/2025_Texas_constitutional_amendment_election
 ---
 
 Proposition 3 is about mandatory bail denial.

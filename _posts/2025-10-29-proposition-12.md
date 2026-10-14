@@ -7,6 +7,10 @@ jurisdiction: State of Texas
 order: 112
 tags: amendment
 recommendation: "No"
+result: "Passed"
+result_for: 62.0
+result_against: 38.0
+result_source: https://en.wikipedia.org/wiki/2025_Texas_constitutional_amendment_election
 ---
 
 Proposition 12 changes who disciplines state judges and how.

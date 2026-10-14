@@ -7,6 +7,10 @@ jurisdiction: State of Texas
 order: 105
 tags: amendment
 recommendation: "No"
+result: "Passed"
+result_for: 63.9
+result_against: 36.1
+result_source: https://en.wikipedia.org/wiki/2025_Texas_constitutional_amendment_election
 ---
 
 Proposition 5 is about animal feed tax exemption.

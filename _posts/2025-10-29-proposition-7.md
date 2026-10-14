@@ -7,6 +7,10 @@ jurisdiction: State of Texas
 order: 107
 tags: amendment
 recommendation: "Yes"
+result: "Passed"
+result_for: 86.7
+result_against: 13.3
+result_source: https://en.wikipedia.org/wiki/2025_Texas_constitutional_amendment_election
 ---
 
 Proposition 7 gives a property tax break for veterans’ surviving spouses.

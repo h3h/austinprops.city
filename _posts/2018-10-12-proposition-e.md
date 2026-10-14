@@ -6,6 +6,11 @@ ballot: 2018
 jurisdiction: City of Austin
 order: 5
 tags: bond
+result: "Passed"
+result_for: 70.9
+result_against: 29.1
+result_source: https://ballotpedia.org/Austin,_Texas,_Proposition_E,_Health_and_Human_Services_Bond_Issue_(November_2018)
+result_note: "Travis County portion of the city vote"
 ---
 
 Proposition E is about funding "health and human services" in a new

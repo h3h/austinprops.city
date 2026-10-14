@@ -6,6 +6,11 @@ ballot: 2018
 jurisdiction: City of Austin
 order: 8
 tags: charter
+result: "Passed"
+result_for: 66.9
+result_against: 33.1
+result_source: https://ballotpedia.org/Austin,_Texas,_Proposition_H,_Planning_Commission_Charter_Amendment_(Novemeber_2018)
+result_note: "Travis County portion of the city vote"
 ---
 
 Proposition H is about changing city rules to allow the City Council to appoint

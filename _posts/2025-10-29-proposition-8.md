@@ -7,6 +7,10 @@ jurisdiction: State of Texas
 order: 108
 tags: amendment
 recommendation: "No"
+result: "Passed"
+result_for: 72.3
+result_against: 27.7
+result_source: https://en.wikipedia.org/wiki/2025_Texas_constitutional_amendment_election
 ---
 
 Just like Proposition 2 and Proposition 6, Proposition 8 is about banning

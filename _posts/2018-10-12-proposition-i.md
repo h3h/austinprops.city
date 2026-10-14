@@ -6,6 +6,11 @@ ballot: 2018
 jurisdiction: City of Austin
 order: 9
 tags: charter
+result: "Passed"
+result_for: 73.4
+result_against: 26.6
+result_source: https://ballotpedia.org/Austin,_Texas,_Proposition_I,_Non-Substantive_Corrections_Charter_Amendment_(November_2018)
+result_note: "Travis County portion of the city vote"
 ---
 
 Proposition I allows for the City Charter to be cleaned up, with spelling,

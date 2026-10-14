@@ -7,6 +7,10 @@ jurisdiction: State of Texas
 order: 109
 tags: amendment
 recommendation: "No"
+result: "Passed"
+result_for: 65.3
+result_against: 34.7
+result_source: https://en.wikipedia.org/wiki/2025_Texas_constitutional_amendment_election
 ---
 
 Proposition 9 would provide a property tax exemption for landlords and business

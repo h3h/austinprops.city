@@ -7,6 +7,10 @@ jurisdiction: State of Texas
 order: 116
 tags: amendment
 recommendation: "No"
+result: "Passed"
+result_for: 72.0
+result_against: 28.0
+result_source: https://en.wikipedia.org/wiki/2025_Texas_constitutional_amendment_election
 ---
 
 Proposition 16 clarifies that only citizens can vote in Texas.

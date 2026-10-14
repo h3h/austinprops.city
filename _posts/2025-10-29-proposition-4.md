@@ -7,6 +7,10 @@ jurisdiction: State of Texas
 order: 104
 tags: amendment
 recommendation: "Yes"
+result: "Passed"
+result_for: 70.6
+result_against: 29.4
+result_source: https://en.wikipedia.org/wiki/2025_Texas_constitutional_amendment_election
 ---
 
 Proposition 4 is about water infrastructure funding.

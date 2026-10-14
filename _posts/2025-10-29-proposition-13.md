@@ -7,6 +7,10 @@ jurisdiction: State of Texas
 order: 113
 tags: amendment
 recommendation: "No"
+result: "Passed"
+result_for: 79.5
+result_against: 20.5
+result_source: https://en.wikipedia.org/wiki/2025_Texas_constitutional_amendment_election
 ---
 
 Proposition 13 increases the school tax exemption for homeowners.

@@ -7,6 +7,10 @@ jurisdiction: State of Texas
 order: 110
 tags: amendment
 recommendation: "Yes"
+result: "Passed"
+result_for: 89.3
+result_against: 10.7
+result_source: https://en.wikipedia.org/wiki/2025_Texas_constitutional_amendment_election
 ---
 
 Proposition 10 gives a temporary property tax exemption for homes destroyed by
