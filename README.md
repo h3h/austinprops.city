@@ -21,7 +21,7 @@ A simple site about Austin city propositions on the ballot.
 
 ## Deploying
 
-Pushes to `master` build with the Gemfile's Jekyll and deploy via the GitHub
+Pushes to `main` build with the Gemfile's Jekyll and deploy via the GitHub
 Actions workflow in `.github/workflows/pages.yml`. In the repository's
 Settings → Pages, the source must be set to “GitHub Actions”.
 
