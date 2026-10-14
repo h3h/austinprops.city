@@ -33,6 +33,14 @@ to the city tax bill on a median-valued home (about $485,000), once all of the
 debt is issued ([Austin Current][AC], [Community Impact][CI]). The money would
 be borrowed over several years, so the increase phases in.
 
+In tax rate terms, that’s a little under **1 cent per $100** of property value
+for both bonds, and about **0.7 cents per $100** for Prop A on its own. (That’s
+our math: the $40 estimate divided by the median home value, with Prop A’s
+share based on its $260 million out of the $295 million total.) For
+comparison, the city’s current debt rate, the part of the property tax rate
+that pays off bonds, is about **11.4 cents per $100** ([city ordinance][ORD]).
+See [how city bonds work][LB] for more on the debt rate.
+
 ## The case against
 
 Council put this on the ballot 8–3. Mayor Kirk Watson and Council Members José
@@ -53,4 +61,5 @@ cost per household is small.
 [APF]: https://austinparks.org/blog/voters-will-decide-a-260-million-parks-bond-this-november/
 [CI]: https://communityimpact.com/east-austin/government/austin-calls-295m-bond-election-for-parks-library-projects/
 [KUT]: https://www.kut.org/austin/2026-08-05/austin-city-council-signs-off-on-295-million-bond-proposal-for-parks-and-libraries
+[ORD]: https://services.austintexas.gov/edims/document.cfm?id=478423
 [KX]: https://www.kxan.com/news/local/austin/city-of-austin-canceled-more-than-60-voter-approved-bond-projects-new-dashboard-shows/
