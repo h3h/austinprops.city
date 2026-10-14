@@ -9,6 +9,10 @@ tags: tax
 recommendation: "Yes"
 ---
 
+**Result:** Voters rejected Proposition Q by about 63% to 37% in the November
+2025 election ([Community Impact][CIR]). See
+[2026’s Proposition I](/2026/proposition-i) for what came next.
+
 Proposition Q allows a tax rate increase beyond the new state limit without
 voter approval, which is 3.5% (it used to be 8%).
 
@@ -35,3 +39,4 @@ wanting good things for that city.
 **Recommendation:** Yes
 
 [KU]: https://www.kut.org/austin/2025-10-16/austin-texas-election-2025-prop-q-property-tax-increase-explained
+[CIR]: https://communityimpact.com/north-central-austin/election/austinites-reject-proposition-q-tax-hike/

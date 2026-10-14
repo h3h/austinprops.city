@@ -31,6 +31,15 @@ As reported by [KXAN][KX], [KVUE][KV], [CBS Austin][CBS] and the
 The full text is in the [petition][PET] and the city’s
 [election ordinance][ORD].
 
+## Background: Prop Q
+
+Last November, Austin voters rejected [Proposition Q](/2025/proposition-q), a
+property tax rate increase the City Council asked for to cover a budget
+shortfall. It would have raised the city’s tax rate from about 47.8 cents to
+57.4 cents per $100 of property value, bringing in roughly $110 million for
+homelessness services, parks and public safety. It failed by about 63% to 37%
+([Community Impact][PQR], [Axios][PQA]).
+
 ## What Austin already does
 
 * **An annual outside financial audit.** The charter already requires an
@@ -114,4 +123,6 @@ the wrong tool.
 [CI]: https://communityimpact.com/central-austin/government/austin-leaders-advance-52m-contract-for-multiyear-citywide-audit-program/
 [TUSA]: https://www.transparencyusa.org/tx/committee/save-austin-now-pac-00085302-gpac
 [CF]: https://www.austintexas.gov/clerk/elections/2026_campaign_finance_reporting
+[PQR]: https://communityimpact.com/north-central-austin/election/austinites-reject-proposition-q-tax-hike/
+[PQA]: https://www.axios.com/local/austin/2025/11/05/prop-q-austin
 [KUT18]: https://www.kut.org/politics/2018-11-07/2018-election-results-austin-shoots-down-props-j-and-k-approves-925-million-in-bonds
